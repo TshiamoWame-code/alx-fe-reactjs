@@ -1,6 +1,5 @@
-@tailwind base;
-@tailwind components;
-@tailwind utilities;
+/* @tailwind directives removed because Tailwind is not configured in this project */
+/* If you want to use Tailwind, set up Tailwind CSS in your build process */
 
 :root {
   font-family: system-ui, Avenir, Helvetica, Arial, sans-serif;
